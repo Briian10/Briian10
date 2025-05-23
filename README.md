@@ -86,7 +86,7 @@ const brian: Developer = {
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💪+Dominando:+HTML5+%7C+CSS3+%7C+JavaScript;🔥+Aprendiendo:+React+%7C+TypeScript+%7C+Tailwind;🚀+Próximo+nivel:+Next.js+%7C+Node.js+%7C+Fullstack;✨+Estado:+En+construcción+pero+con+mucha+pasión)](https://git.io/typing-svg)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+
 
 </div>
 
@@ -150,19 +150,7 @@ const brian: Developer = {
 
 </div>
 
----
 
-<div align="center">
-
-## 📈 Actividad de Contribución
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&hide_border=true)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ---
 
