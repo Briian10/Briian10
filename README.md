@@ -82,17 +82,9 @@ const brian: Developer = {
 
 <div align="center">
 
-## 📊 Mi Progreso en GitHub
+## 🌟 Mi Journey como Frontend Developer
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=default&hide_border=true">
-</picture>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💪+Dominando:+HTML5+%7C+CSS3+%7C+JavaScript;🔥+Aprendiendo:+React+%7C+TypeScript+%7C+Tailwind;🚀+Próximo+nivel:+Next.js+%7C+Node.js+%7C+Fullstack;✨+Estado:+En+construcción+pero+con+mucha+pasión)](https://git.io/typing-svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 
@@ -132,31 +124,6 @@ const brian: Developer = {
 </div>
 
 ---
-
-<div align="center">
-
-## 🌱 Mi Journey como Frontend Developer
-
-</div>
-
-```css
-.mi-progreso {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  journey: "De cero a frontend developer";
-  estado: "En construcción 🚧";
-  next-level: "Fullstack Developer";
-}
-
-.habilidades-actuales::before {
-  content: "💪 Lo que ya domino";
-  color: #8B5CF6;
-}
-
-.aprendiendo-ahora::after {
-  content: "🔥 En proceso de aprendizaje";
-  animation: pulse 2s infinite;
-}
-```
 
 <div align="center">
 
