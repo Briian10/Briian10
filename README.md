@@ -113,7 +113,7 @@ const brian: Developer = {
 
 <div align="center">
 
-[[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=NOMBRE_PROYECTO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff)](https://github.com/TU_USERNAME/NOMBRE_PROYECTO_1)](https://mi-portafolio-two-lake.vercel.app/)
+(https://mi-portafolio-two-lake.vercel.app/)
 
 
 </div>
