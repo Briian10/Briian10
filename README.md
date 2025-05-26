@@ -105,7 +105,7 @@ const brian: Developer = {
 <div align="center">
 
 ### 🌟 Mi Portafolio Personal
-[[![Portfolio](https://img.shields.io/badge/🚀_Ver_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)](https://mi-portafolio-two-lake.vercel.app/)
+[[![Portfolio](https://img.shields.io/badge/🚀_Ver_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)]
 
 *Mi espacio digital donde muestro mi evolución como developer*
 
@@ -113,9 +113,8 @@ const brian: Developer = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=NOMBRE_PROYECTO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff)](https://github.com/TU_USERNAME/NOMBRE_PROYECTO_1)
+[[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=NOMBRE_PROYECTO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff)](https://github.com/TU_USERNAME/NOMBRE_PROYECTO_1)](https://mi-portafolio-two-lake.vercel.app/)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=NOMBRE_PROYECTO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff)](https://github.com/TU_USERNAME/NOMBRE_PROYECTO_2)
 
 </div>
 
