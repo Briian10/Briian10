@@ -105,7 +105,7 @@ const brian: Developer = {
 <div align="center">
 
 ### 🌟 Mi Portafolio Personal
-[![Portfolio](https://img.shields.io/badge/🚀_Ver_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)
+[[![Portfolio](https://img.shields.io/badge/🚀_Ver_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)](https://mi-portafolio-two-lake.vercel.app/)
 
 *Mi espacio digital donde muestro mi evolución como developer*
 
