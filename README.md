@@ -141,13 +141,6 @@ const brian: Developer = {
 
 ---
 
-<div align="center">
-
-## 🏆 Mis Logros (aunque sean pequeños, son míos 😄)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
 
 
 
