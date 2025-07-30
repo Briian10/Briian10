@@ -24,25 +24,88 @@
 
 </div>
 
-```typescript
-const brian: Developer = {
+// BrianCard.tsx
+export default function BrianCard() {
+  const brian = {
     nombre: "Brian",
     rol: "Frontend Developer Jr.",
     ubicacion: "🌎 Somewhere coding...",
     experiencia: "Junior pero con mucha pasión",
     estado: "En constante aprendizaje 📚",
-    
-    tecnologias: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS"],
-        herramientas: ["Git", "VS Code", "Figma", "Vercel"],
-        aprendiendo: ["TypeScript", "Next.js", "Node.js"],
-        proximas_metas: ["Vue.js", "React Native", "Three.js"]
-    },
-    
     motivacion: "Convertir ideas en experiencias digitales increíbles ✨",
-    cafe_consumido: "∞ tazas y contando... ☕"
-};
-```
+    cafe_consumido: "∞ tazas y contando... ☕",
+    tecnologias: {
+      frontend: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS"],
+      herramientas: ["Git", "VS Code", "Figma", "Vercel"],
+      aprendiendo: ["TypeScript", "Next.js", "Node.js"],
+      proximas_metas: ["Vue.js", "React Native", "Three.js"]
+    }
+  };
+
+  return (
+    <div className="max-w-4xl mx-auto mt-10 p-6 bg-white/30 dark:bg-gray-800/30 backdrop-blur-md border border-gray-200 dark:border-gray-700 rounded-2xl shadow-2xl transition-all duration-300 hover:scale-[1.02]">
+      <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
+        <div>
+          <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white">{brian.nombre}</h1>
+          <p className="text-lg text-indigo-600 dark:text-indigo-400">{brian.rol}</p>
+        </div>
+        <span className="px-4 py-2 rounded-full bg-indigo-100 text-indigo-700 dark:bg-indigo-900 dark:text-indigo-300 text-sm">
+          {brian.ubicacion}
+        </span>
+      </div>
+
+      <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-gray-800 dark:text-gray-200">
+        <Detail label="🚀 Experiencia" value={brian.experiencia} />
+        <Detail label="📚 Estado actual" value={brian.estado} />
+        <Detail label="☕ Café consumido" value={brian.cafe_consumido} />
+        <Detail label="💡 Motivación" value={brian.motivacion} />
+      </div>
+
+      <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+        <TechList title="Frontend" items={brian.tecnologias.frontend} color="bg-pink-100" />
+        <TechList title="Herramientas" items={brian.tecnologias.herramientas} color="bg-yellow-100" />
+        <TechList title="Aprendiendo" items={brian.tecnologias.aprendiendo} color="bg-green-100" />
+        <TechList title="Próximas metas" items={brian.tecnologias.proximas_metas} color="bg-blue-100" />
+      </div>
+    </div>
+  );
+}
+
+function Detail({ label, value }: { label: string; value: string }) {
+  return (
+    <div className="flex items-start space-x-2">
+      <span className="font-semibold">{label}:</span>
+      <span>{value}</span>
+    </div>
+  );
+}
+
+function TechList({
+  title,
+  items,
+  color
+}: {
+  title: string;
+  items: string[];
+  color: string;
+}) {
+  return (
+    <div className={`p-4 rounded-lg ${color} dark:bg-opacity-10`}>
+      <h3 className="font-bold text-gray-700 dark:text-gray-300 mb-2">{title}</h3>
+      <ul className="flex flex-wrap gap-2">
+        {items.map((tech) => (
+          <li
+            key={tech}
+            className="px-3 py-1 bg-white/80 dark:bg-gray-700/50 rounded-full text-xs font-medium text-gray-900 dark:text-gray-100 shadow-sm"
+          >
+            {tech}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
