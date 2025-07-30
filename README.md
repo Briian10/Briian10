@@ -18,12 +18,6 @@
 
 ---
 
-<div align="center">
-
-## 🌟 Sobre mí
-
-
-
 ---
 
 <div align="center">
