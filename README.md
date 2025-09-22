@@ -79,17 +79,13 @@
 
 ## 🎯 Proyectos que me enorgullecen
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6&height=100&section=header&text=Portfolio&fontSize=30&fontColor=fff"/>
 
 ### 🌟 Mi Portafolio Personal
-
-[![Portfolio](https://img.shields.io/badge/🚀_Ver_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)
 
 *Mi espacio digital donde muestro mi evolución como developer*
 
 [![Live Demo](https://img.shields.io/badge/🌐_Demo_Live-FF6B6B?style=for-the-badge&logoColor=white)](https://mi-portafolio-two-lake.vercel.app/)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=mi-portafolio&theme=tokyonight&bg_color=1a1b27&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6"/>
 
 </div>
 
@@ -97,42 +93,6 @@
 
 ---
 
-<div align="center">
-
-## 🎯 Metas para 2025
-
-<table>
-<tr>
-<td width="50%">
-
-### ✅ **Completadas**
-- ✅ Crear mi primer portafolio
-
-</td>
-<td width="50%">
-
-### 🔄 **En progreso**
-- 🔄 Dominar React y sus hooks
-- 🔄 Aprender TypeScript
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### ⏳ **Por hacer**
-- ⏳ Contribuir a proyectos open source
-- ⏳ Conseguir mi primer trabajo como Frontend Developer
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=80&section=footer"/>
 
 ---
 
@@ -167,11 +127,10 @@ brian_dev:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=80&section=footer"/>
+
 
 ---
 
@@ -179,32 +138,25 @@ brian_dev:
 
 ## 📫 ¡Conectemos y crecemos juntos!
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=3&height=80&section=header&text=Contacto&fontSize=25&fontColor=fff"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet&style=for-the-badge&label=Visitors)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=1a1b27&color=8b5cf6&line=8b5cf6&point=ffffff&area_color=8b5cf6&area=true&hide_border=true"/>
-</div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer"/>
+
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=30&height=150&section=header&text=Gracias%20por%20visitar&fontSize=30&fontColor=fff&desc=Let's%20code%20together!&descSize=15&descAlignY=75"/>
+
 
 ### 💫 *"Cada línea de código es un paso más cerca de mis sueños"*
 
