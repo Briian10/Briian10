@@ -4,19 +4,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Frontend+Developer+%F0%9F%92%9C;Creando+experiencias+digitales;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Frontend+Developer+%F0%9F%92%9C;Creando+experiencias+digitales;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
-  
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
----
 
 ---
 
@@ -24,19 +16,40 @@
 
 ## 🚀 Stack Tecnológico
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 💫 Frontend (Mi zona de comfort)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
+</p>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5&height=2&section=header"/>
+
 ### 🔮 Explorando ahora
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs" alt="Learning Skills" />
+</p>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8&height=2&section=header"/>
+
 ### 🛠️ Herramientas del día a día
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,vercel,figma" alt="Tools" />
+</p>
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -44,9 +57,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
 
 ---
 
@@ -54,15 +65,13 @@
 
 ## 🌟 Mi Journey como Frontend Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💪+Dominando:+HTML5+%7C+CSS3+%7C+JavaScript;🔥+Aprendiendo:+React+%7C+TypeScript+%7C+Tailwind;🚀+Próximo+nivel:+Next.js+%7C+Node.js+%7C+Fullstack;✨+Estado:+En+construcción+pero+con+mucha+pasión)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💪+Dominando:+HTML5+%7C+CSS3+%7C+JavaScript;🔥+Aprendiendo:+React+%7C+TypeScript+%7C+Tailwind;🚀+Próximo+nivel:+Next.js+%7C+Node.js+%7C+Fullstack;✨+Estado:+En+construcción+pero+con+mucha+pasión"/>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer"/>
 
 ---
 
@@ -70,49 +79,60 @@
 
 ## 🎯 Proyectos que me enorgullecen
 
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6&height=100&section=header&text=Portfolio&fontSize=30&fontColor=fff"/>
 
 ### 🌟 Mi Portafolio Personal
-[[![Portfolio](https://img.shields.io/badge/🚀_Ver_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)]
+
+[![Portfolio](https://img.shields.io/badge/🚀_Ver_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)
 
 *Mi espacio digital donde muestro mi evolución como developer*
 
-</div>
+[![Live Demo](https://img.shields.io/badge/🌐_Demo_Live-FF6B6B?style=for-the-badge&logoColor=white)](https://mi-portafolio-two-lake.vercel.app/)
 
-<div align="center">
-
-(https://mi-portafolio-two-lake.vercel.app/)
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=mi-portafolio&theme=tokyonight&bg_color=1a1b27&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6"/>
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=80&section=footer"/>
 
 ---
 
 <div align="center">
 
-### 🎯 Metas para 2025
+## 🎯 Metas para 2025
+
+<table>
+<tr>
+<td width="50%">
+
+### ✅ **Completadas**
 - ✅ Crear mi primer portafolio
+
+</td>
+<td width="50%">
+
+### 🔄 **En progreso**
 - 🔄 Dominar React y sus hooks
 - 🔄 Aprender TypeScript
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### ⏳ **Por hacer**
 - ⏳ Contribuir a proyectos open source
 - ⏳ Conseguir mi primer trabajo como Frontend Developer
 
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6"/>
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=80&section=footer"/>
 
 ---
 
@@ -146,8 +166,12 @@ brian_dev:
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=80&section=footer"/>
 
 ---
 
@@ -155,22 +179,32 @@ brian_dev:
 
 ## 📫 ¡Conectemos y crecemos juntos!
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=3&height=80&section=header&text=Contacto&fontSize=25&fontColor=fff"/>
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://mi-portafolio-h34tfzg79-brians-projects-3a29f8e0.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet&style=for-the-badge&label=Visitors)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=1a1b27&color=8b5cf6&line=8b5cf6&point=ffffff&area_color=8b5cf6&area=true&hide_border=true"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer"/>
+
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=30&height=150&section=header&text=Gracias%20por%20visitar&fontSize=30&fontColor=fff&desc=Let's%20code%20together!&descSize=15&descAlignY=75"/>
 
 ### 💫 *"Cada línea de código es un paso más cerca de mis sueños"*
 
@@ -179,5 +213,7 @@ brian_dev:
 **✨ Si mi perfil te inspira o mis proyectos te sirven, ¡dale una ⭐ a mis repos! ✨**
 
 ### 🚀 *Juntos construyamos el futuro, una línea de código a la vez*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
 </div>
